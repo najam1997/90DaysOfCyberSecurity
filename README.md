@@ -1,5 +1,5 @@
 # Conquering-Offensive-Security-in-90-days
-Making this repository for preparation of eCPPT, CPENT, and OSCP. Will proceed to other things in the domain later on.
+Making this repository for preparation of eCPPT, CPENT, and OSCP. Will proceed to other things in this domain later on.
 
 ## Week 1:
 ### Day 1:
