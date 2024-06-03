@@ -9,4 +9,4 @@ Inspired by: 90daysofdevops by michaelcade
 - [✔️] [Breaching Active Directory](https://tryhackme.com/module/hacking-active-directory)
 ### Day 3:
 - [✔️] [Enumerating Active Directory](https://tryhackme.com/module/hacking-active-directory)
-- [XX] Run the commands and tools in VM for Practice.
+- [  ] Run the commands and tools in VM for Practice.
