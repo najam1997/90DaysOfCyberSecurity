@@ -4,3 +4,5 @@ Making this repository for preparation of eCPPT, CPENT, and OSCP. Will proceed t
 ## Week 1:
 ### Day 1:
 - [x] [Active Directory Basics](https://tryhackme.com/module/hacking-active-directory)
+### Day 2:
+- [x] [Breaching Active Directory](https://tryhackme.com/module/hacking-active-directory)
