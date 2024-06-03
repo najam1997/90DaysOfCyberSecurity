@@ -4,9 +4,9 @@ Inspired by: 90daysofdevops by michaelcade
 
 ## Week 1:
 ### Day 1:
-- [x] [Active Directory Basics](https://tryhackme.com/module/hacking-active-directory)
+- [✔️] [Active Directory Basics](https://tryhackme.com/module/hacking-active-directory)
 ### Day 2:
-- [x] [Breaching Active Directory](https://tryhackme.com/module/hacking-active-directory)
+- [✔️] [Breaching Active Directory](https://tryhackme.com/module/hacking-active-directory)
 ### Day 3:
-- [x] [Enumerating Active Directory](https://tryhackme.com/module/hacking-active-directory)
-- [ ] Run the commands and tools in VM for Practice.
+- [✔️] [Enumerating Active Directory](https://tryhackme.com/module/hacking-active-directory)
+- [  ] Run the commands and tools in VM for Practice.
