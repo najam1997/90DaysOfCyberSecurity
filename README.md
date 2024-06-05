@@ -11,3 +11,5 @@ Inspired by: 90daysofdevops by michaelcade
 - [✔️] [Enumerating Active Directory](https://tryhackme.com/module/hacking-active-directory)
 ### Day 4:
 - [✔️] Run the commands and tools for Practicing Enumeration in a [Deliberately Vulnerable AD](https://github.com/Orange-Cyberdefense/GOAD)
+### Day 5:
+- [✔️] [Lateral Movement and Pivoting](https://tryhackme.com/module/hacking-active-directory)
