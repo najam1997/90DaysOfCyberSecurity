@@ -14,4 +14,6 @@ Inspired by: 90daysofdevops by michaelcade
 ### Day 5:
 - [✔️] [Lateral Movement and Pivoting](https://tryhackme.com/module/hacking-active-directory)
 ### Day 6:
-- [] [Exploiting Active Directory](https://tryhackme.com/module/hacking-active-directory)
+- [✔️] [Exploiting Active Directory](https://tryhackme.com/module/hacking-active-directory)
+### Day 7:
+- [XX] [Credentials Harvesting](https://tryhackme.com/module/hacking-active-directory)
