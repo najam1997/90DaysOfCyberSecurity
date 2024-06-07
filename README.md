@@ -16,4 +16,4 @@ Inspired by: 90daysofdevops by michaelcade
 ### Day 6:
 - [✔️] [Exploiting Active Directory](https://tryhackme.com/module/hacking-active-directory)
 ### Day 7:
-- [XX] [Credentials Harvesting](https://tryhackme.com/module/hacking-active-directory)
+- [XX] [Persisting Active Directory](https://tryhackme.com/module/hacking-active-directory)
