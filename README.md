@@ -22,4 +22,4 @@ Inspired by: 90daysofdevops by michaelcade
 ### Day 8:
 - [XX] [Credentials Harevesting](https://tryhackme.com/module/hacking-active-directory)
 ### Day 9:
-- [XX] [Practicing Windows Machine](https://hackthebox.com)
+- [XX] [Practicing Windows Virtual Machine](https://hackthebox.com)
