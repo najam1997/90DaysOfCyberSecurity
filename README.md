@@ -17,3 +17,9 @@ Inspired by: 90daysofdevops by michaelcade
 - [✔️] [Exploiting Active Directory](https://tryhackme.com/module/hacking-active-directory)
 ### Day 7:
 - [XX] [Persisting Active Directory](https://tryhackme.com/module/hacking-active-directory)
+
+## Week 2:
+### Day 8:
+- [XX] [Credentials Harevesting](https://tryhackme.com/module/hacking-active-directory)
+### Day 9:
+- [XX] [Practicing Windows Machine](https://hackthebox.com)
