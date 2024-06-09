@@ -22,4 +22,4 @@ Inspired by: 90daysofdevops by michaelcade
 ### Day 8:
 - [✔️] [Credentials Harvesting](https://tryhackme.com/module/hacking-active-directory)
 ### Day 9:
-- [XX] [Practicing Windows Virtual Machine](https://hackthebox.com)
+- [XX] For Practicing Windows Virtual Machine, you can check [HTB Platform](https://hackthebox.com) or [GOAD](https://github.com/Orange-Cyberdefense/GOAD)
