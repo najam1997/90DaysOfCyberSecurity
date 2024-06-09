@@ -20,6 +20,6 @@ Inspired by: 90daysofdevops by michaelcade
 
 ## Week 2:
 ### Day 8:
-- [XX] [Credentials Harevesting](https://tryhackme.com/module/hacking-active-directory)
+- [✔️] [Credentials Harvesting](https://tryhackme.com/module/hacking-active-directory)
 ### Day 9:
 - [XX] [Practicing Windows Virtual Machine](https://hackthebox.com)
