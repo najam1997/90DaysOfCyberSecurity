@@ -22,7 +22,7 @@ Inspired by: 90daysofdevops by michaelcade
 ### Day 8:
 - [✔️] [Credentials Harvesting](https://tryhackme.com/module/hacking-active-directory)
 ### Day 9:
-- [XX] For Practicing Windows Virtual Machine, you can check [HTB Platform](https://hackthebox.com) or [GOAD](https://github.com/Orange-Cyberdefense/GOAD)
+- [✔️] For Practicing Windows Virtual Machine, you can check [HTB Platform](https://hackthebox.com) or [GOAD](https://github.com/Orange-Cyberdefense/GOAD)
 - I practiced the concepts on an eternal blue machine in [TryHackMe](https://tryhackme.com/r/room/blue).
 ### Day 10:
 - [XX] For Practicing Windows Virtual Machine, you can check [HTB Platform](https://hackthebox.com) or [GOAD](https://github.com/Orange-Cyberdefense/GOAD)
@@ -30,4 +30,6 @@ Inspired by: 90daysofdevops by michaelcade
 ### Day 11:
 - [XX] For Practicing Windows Virtual Machine, you can check [HTB Platform](https://hackthebox.com) or [GOAD](https://github.com/Orange-Cyberdefense/GOAD)
 ### Day 12:
+- [XX] For Practicing Windows Virtual Machine, you can check [HTB Platform](https://hackthebox.com) or [GOAD](https://github.com/Orange-Cyberdefense/GOAD)
+### Day 13:
 - [XX] For Practicing Windows Virtual Machine, you can check [HTB Platform](https://hackthebox.com) or [GOAD](https://github.com/Orange-Cyberdefense/GOAD)
