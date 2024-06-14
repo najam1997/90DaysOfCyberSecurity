@@ -33,3 +33,5 @@ Inspired by: 90daysofdevops by michaelcade
 - [XX] For Practicing Windows Virtual Machine, you can check [HTB Platform](https://hackthebox.com) or [GOAD](https://github.com/Orange-Cyberdefense/GOAD)
 ### Day 13:
 - [XX] For Practicing Windows Virtual Machine, you can check [HTB Platform](https://hackthebox.com) or [GOAD](https://github.com/Orange-Cyberdefense/GOAD)
+### Day 14:
+- 
