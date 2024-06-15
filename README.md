@@ -28,9 +28,9 @@ Inspired by: 90daysofdevops by michaelcade
 - [✔️] For Practicing Windows Virtual Machine, you can check [HTB Platform](https://hackthebox.com) or [GOAD](https://github.com/Orange-Cyberdefense/GOAD)
 - I practiced the concepts on an [attactivedirectory VM in TryHackMe](https://tryhackme.com/r/room/attacktivedirectory).
 ### Day 11:
-- [XX] Learnt the process of exploiting Certificates in AD on [TryHackMe](https://tryhackme.com/r/room/cve202226923).
+- [✔️] Learnt the process of exploiting Certificates in AD on [TryHackMe](https://tryhackme.com/r/room/cve202226923).
 ### Day 12:
-- [XX] For Practicing Windows Virtual Machine, you can check [HTB Platform](https://hackthebox.com) or [GOAD](https://github.com/Orange-Cyberdefense/GOAD)
+- [XX] Practiced exploiting Certificates in AD somemore on [TryHackMe](https://tryhackme.com/r/room/adcertificatetemplates).
 ### Day 13:
 - [XX] For Practicing Windows Virtual Machine, you can check [HTB Platform](https://hackthebox.com) or [GOAD](https://github.com/Orange-Cyberdefense/GOAD)
 ### Day 14:
