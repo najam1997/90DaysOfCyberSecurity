@@ -32,7 +32,7 @@ Inspired by: 90daysofdevops by michaelcade
 ### Day 12:
 - [XX] Practiced exploiting Certificates in AD somemore on [TryHackMe](https://tryhackme.com/r/room/adcertificatetemplates).
 ### Day 13:
-- [XX] For Practicing Windows Virtual Machine, you can check [HTB Platform](https://hackthebox.com) or [GOAD](https://github.com/Orange-Cyberdefense/GOAD)
+- 
 ### Day 14:
 - 
 
