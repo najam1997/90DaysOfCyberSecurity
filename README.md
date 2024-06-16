@@ -32,7 +32,7 @@ Inspired by: 90daysofdevops by michaelcade
 ### Day 12:
 - [✔️] Practiced exploiting Certificates in AD some more on [TryHackMe](https://tryhackme.com/r/room/adcertificatetemplates).
 ### Day 13:
-- 
+- [❎] Practiced using Metasploit on an Easy Windows VM on [TryHackMe](https://tryhackme.com/r/room/ice).
 ### Day 14:
 - 
 
