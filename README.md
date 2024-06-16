@@ -30,7 +30,7 @@ Inspired by: 90daysofdevops by michaelcade
 ### Day 11:
 - [✔️] Learnt the process of exploiting Certificates in AD on [TryHackMe](https://tryhackme.com/r/room/cve202226923).
 ### Day 12:
-- [XX] Practiced exploiting Certificates in AD somemore on [TryHackMe](https://tryhackme.com/r/room/adcertificatetemplates).
+- [✔️] Practiced exploiting Certificates in AD some more on [TryHackMe](https://tryhackme.com/r/room/adcertificatetemplates).
 ### Day 13:
 - 
 ### Day 14:
