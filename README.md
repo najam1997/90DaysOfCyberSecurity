@@ -33,14 +33,14 @@ Started: 8th June 2024
 ### Day 12:
 - [✔️] Practiced exploiting Certificates in AD some more on [TryHackMe](https://tryhackme.com/r/room/adcertificatetemplates).
 ### Day 13:
-- [❌] Practiced using Metasploit on an Easy Windows VM on [TryHackMe](https://tryhackme.com/r/room/ice).
+- [✔️] Practiced using Metasploit on an Easy Windows VM on [TryHackMe](https://tryhackme.com/r/room/ice).
 ### Day 14:
-- 
+- [❌]
 
 ## Week 3:
 ### Day 15:
--
+- [❌]
 ### Day 16:
--
+- [❌]
 ### Day 17:
--
+- [❌]
