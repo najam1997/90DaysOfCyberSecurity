@@ -2,7 +2,7 @@
 Making this repository for preparation of eCPPT, CPENT, and OSCP. Will proceed to other things in this domain later on.
 Inspired by: 90daysofdevops by michaelcade
 
-Started: 8th June 2024
+Started: 1st June 2024
 ## Week 1:
 ### Day 1:
 - [✔️] [Active Directory Basics](https://tryhackme.com/module/hacking-active-directory)
