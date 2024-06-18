@@ -35,7 +35,7 @@ Started: 1st June 2024
 ### Day 13:
 - [✔️] Practiced using Metasploit on an Easy Windows VM on [TryHackMe](https://tryhackme.com/r/room/ice).
 ### Day 14:
-- [❌]
+- [❌] Practiced different types of Privelege Escalations on a Medium difficulty Windows VM on [TryHackMe](https://tryhackme.com/r/room/windows10privesc).
 
 ## Week 3:
 ### Day 15:
