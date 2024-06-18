@@ -40,3 +40,7 @@ Started: 8th June 2024
 ## Week 3:
 ### Day 15:
 -
+### Day 16:
+-
+### Day 17:
+-
