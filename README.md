@@ -40,7 +40,7 @@ Started: 1st June 2024
 
 ## Week 3:
 ### Day 15:
-- [❌]
+- [❌] Practiced different types of Privelege Escalations on a Medium difficulty Windows VM on [TryHackMe](https://tryhackme.com/r/room/windows10privesc).
 ### Day 16:
 - [❌]
 ### Day 17:
