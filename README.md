@@ -25,10 +25,10 @@ Started: 1st June 2024
 - [✔️] [Credentials Harvesting](https://tryhackme.com/module/hacking-active-directory)
 ### Day 9:
 - [✔️] For Practicing Windows Virtual Machine, you can check [HTB Platform](https://hackthebox.com) or [GOAD](https://github.com/Orange-Cyberdefense/GOAD)
-- I practiced the concepts on an [eternal blue machine in TryHackMe](https://tryhackme.com/r/room/blue).
+- I practiced the concepts on an easy VM in [TryHackMe](https://tryhackme.com/r/room/blue).
 ### Day 10:
 - [✔️] For Practicing Windows Virtual Machine, you can check [HTB Platform](https://hackthebox.com) or [GOAD](https://github.com/Orange-Cyberdefense/GOAD)
-- I practiced the concepts on an [attactivedirectory VM in TryHackMe](https://tryhackme.com/r/room/attacktivedirectory).
+- I practiced the concepts on an easy VM in [TryHackMe](https://tryhackme.com/r/room/attacktivedirectory).
 ### Day 11:
 - [✔️] Learnt the process of exploiting Certificates in AD on [TryHackMe](https://tryhackme.com/r/room/cve202226923).
 ### Day 12:
