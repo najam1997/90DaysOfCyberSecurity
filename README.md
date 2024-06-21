@@ -6,8 +6,11 @@ Inspired by: 90daysofdevops by michaelcade
 Started: 1st June 2024
 
 **Key:**
+
 ✔️ : Completed
+
 ❌ : Incomplete
+
 ⭕ : Incomplete due to an error
 
 ## Week 1:
