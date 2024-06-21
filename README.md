@@ -50,9 +50,9 @@ Started: 1st June 2024
 ### Day 15:
 - [⭕] Practiced different types of Privelege Escalations on a Medium difficulty Windows VM on [TryHackMe](https://tryhackme.com/r/room/windowsprivescarena).
 ### Day 16:
-- [❌] Practiced the skills learnt previously on a Hard difficulty vulnerable AD environment on [TryHackMe](https://tryhackme.com/r/room/ra). 
+- [✔️] Practiced the skills learnt previously on a Hard difficulty vulnerable AD environment on [TryHackMe](https://tryhackme.com/r/room/ra). 
 ### Day 17:
-- [❌] Practiced the skills learnt previously on a Hard difficulty vulnerable AD environment on [TryHackMe](https://tryhackme.com/r/room/ra).
+- [✔️] Practiced the skills learnt previously on a Hard difficulty vulnerable AD environment on [TryHackMe](https://tryhackme.com/r/room/ra).
 ### Day 18:
 - [❌] Practiced the skills learnt previously on another Hard difficulty vulnerable AD environment on [TryHackMe](https://tryhackme.com/r/room/resetui).
 ### Day 19:
