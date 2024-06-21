@@ -54,9 +54,9 @@ Started: 1st June 2024
 ### Day 17:
 - [❌] Practiced the skills learnt previously on a Hard difficulty vulnerable AD environment on [TryHackMe](https://tryhackme.com/r/room/ra).
 ### Day 18:
-- [❌]
+- [❌] Practiced the skills learnt previously on another Hard difficulty vulnerable AD environment on [TryHackMe](https://tryhackme.com/r/room/resetui).
 ### Day 19:
-- [❌]
+- [❌] Practiced the skills learnt previously on another Hard difficulty vulnerable AD environment on [TryHackMe](https://tryhackme.com/r/room/resetui).
 ### Day 20:
 - [❌]
 ### Day 21:
