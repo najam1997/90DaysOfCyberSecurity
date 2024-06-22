@@ -8,7 +8,7 @@ Started: 1st June 2024
 **Key:**  
    ✔️ : Completed  
    ❌ : Incomplete  
-   ⭕ : Incomplete due to an error  
+   ⭕ : In progress  
 
 ## Week 1:
 ### Day 1:
@@ -48,16 +48,20 @@ Started: 1st June 2024
 
 ## Week 3:
 ### Day 15:
-- [⭕] Practiced different types of Privelege Escalations on a Medium difficulty Windows VM on [TryHackMe](https://tryhackme.com/r/room/windowsprivescarena).
+- [❌] Practiced different types of Privelege Escalations on a Medium difficulty Windows VM on [TryHackMe](https://tryhackme.com/r/room/windowsprivescarena).
 ### Day 16:
 - [✔️] Practiced the skills learnt previously on a Hard difficulty vulnerable AD environment on [TryHackMe](https://tryhackme.com/r/room/ra). 
 ### Day 17:
 - [✔️] Practiced the skills learnt previously on a Hard difficulty vulnerable AD environment on [TryHackMe](https://tryhackme.com/r/room/ra).
 ### Day 18:
-- [❌] Practiced the skills learnt previously on another Hard difficulty vulnerable AD environment on [TryHackMe](https://tryhackme.com/r/room/resetui).
+- [⭕] Practiced the skills learnt previously on another Hard difficulty vulnerable AD environment on [TryHackMe](https://tryhackme.com/r/room/resetui).
 ### Day 19:
-- [❌] Practiced the skills learnt previously on another Hard difficulty vulnerable AD environment on [TryHackMe](https://tryhackme.com/r/room/resetui).
+- [⭕] Practiced the skills learnt previously on another Hard difficulty vulnerable AD environment on [TryHackMe](https://tryhackme.com/r/room/resetui).
 ### Day 20:
-- [❌]
+- [⭕]
 ### Day 21:
-- [❌]
+- [⭕]
+
+## Week 4:
+### Day 22:
+- [⭕]
