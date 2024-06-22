@@ -42,9 +42,8 @@ Started: 1st June 2024
 ### Day 13:
 - [✔️] Practiced using Metasploit on an Easy Windows VM on [TryHackMe](https://tryhackme.com/r/room/ice).
 ### Day 14:
-- [✔️] Practiced different types of Privelege Escalations on a Medium difficulty Windows VM on [TryHackMe](https://tryhackme.com/r/room/windows10privesc).
-
-  ❕ P.S: This can be used as a reference list to perform privelege escalation.  
+- [✔️] Practiced different types of Privelege Escalations on a Medium difficulty Windows VM on [TryHackMe](https://tryhackme.com/r/room/windows10privesc).  
+   ❕ P.S: This can be used as a reference list to perform privelege escalation.  
 
 ## Week 3:
 ### Day 15:
@@ -54,9 +53,10 @@ Started: 1st June 2024
 ### Day 17:
 - [✔️] Practiced the skills learnt previously on a Hard difficulty vulnerable AD environment on [TryHackMe](https://tryhackme.com/r/room/ra).
 ### Day 18:
-- [⭕] Practiced the skills learnt previously on another Hard difficulty vulnerable AD environment on [TryHackMe](https://tryhackme.com/r/room/resetui).
+- [✔️] Practiced the skills learnt previously on another Hard difficulty vulnerable AD environment on [TryHackMe](https://tryhackme.com/r/room/resetui).
+   ❕ P.S: Can be used as a practice VM to learn and apply random windows privelege escalation tools.
 ### Day 19:
-- [⭕] Practiced the skills learnt previously on another Hard difficulty vulnerable AD environment on [TryHackMe](https://tryhackme.com/r/room/resetui).
+- [✔️] Practiced the skills learnt previously on another Hard difficulty vulnerable AD environment on [TryHackMe](https://tryhackme.com/r/room/resetui).
 ### Day 20:
 - [⭕]
 ### Day 21:
