@@ -59,7 +59,7 @@ Started: 1st June 2024
 - [✔️] Practiced the skills learnt previously on another Hard difficulty vulnerable AD environment on [TryHackMe](https://tryhackme.com/r/room/resetui).
 ### Day 20:
 - [✔️] Completed an Easy difficulty vulnerable Windows VM [TryHackMe](https://tryhackme.com/r/room/outlookntlmleak)
-- [⭕] Completed a Medium difficulty vulnerable Windows VM [TryHackMe](https://tryhackme.com/r/room/vulnnetactive)
+- [⭕] Started a Medium difficulty vulnerable Windows VM [TryHackMe](https://tryhackme.com/r/room/vulnnetactive)
 ### Day 21:
 - [⭕] Completed a Medium difficulty vulnerable Windows VM [TryHackMe](https://tryhackme.com/r/room/vulnnetactive)
 
