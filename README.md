@@ -10,7 +10,7 @@ Started: 1st June 2024
    ❌ : Incomplete  
    ⭕ : In progress  
 
-## Week 1:
+## Week 1 (Active Directory Exploitation):
 ### Day 1:
 - [✔️] [Active Directory Basics](https://tryhackme.com/module/hacking-active-directory)
 ### Day 2:
@@ -26,7 +26,7 @@ Started: 1st June 2024
 ### Day 7:
 - [✔️] [Persisting Active Directory](https://tryhackme.com/module/hacking-active-directory)
 
-## Week 2:
+## Week 2 (Active Directory Exploitation & General Win. PrivEsc):
 ### Day 8:
 - [✔️] [Credentials Harvesting](https://tryhackme.com/module/hacking-active-directory)
 ### Day 9:
@@ -45,7 +45,7 @@ Started: 1st June 2024
 - [✔️] Practiced different types of Privelege Escalations on a Medium difficulty Windows VM on [TryHackMe](https://tryhackme.com/r/room/windows10privesc).  
    ❕ P.S: This can be used as a reference list to perform privelege escalation.  
 
-## Week 3:
+## Week 3 (Active Directory Exploitation & Windows CTFs):
 ### Day 15:
 - [❌] Practiced different types of Privelege Escalations on a Medium difficulty Windows VM on [TryHackMe](https://tryhackme.com/r/room/windowsprivescarena).
 ### Day 16:
@@ -64,7 +64,7 @@ Started: 1st June 2024
 - [❌] Completed a Medium difficulty vulnerable Windows VM [TryHackMe](https://tryhackme.com/r/room/vulnnetactive)
 - [✔️] Started another Medium difficulty vulnerable Windows VM [TryHackMe](https://tryhackme.com/r/room/stealth)
 
-## Week 4:
+## Week 4 (Double Pivoting):
 ### Day 22:
 - [❌] Completed the Medium difficulty vulnerable Windows VM [TryHackMe](https://tryhackme.com/r/room/stealth)  
    ❕ P.S: Used privesc.ps1 script to enumerate for Privelege Escalation.
