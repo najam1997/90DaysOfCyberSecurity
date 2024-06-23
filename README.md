@@ -59,12 +59,14 @@ Started: 1st June 2024
 - [✔️] Practiced the skills learnt previously on another Hard difficulty vulnerable AD environment on [TryHackMe](https://tryhackme.com/r/room/resetui).
 ### Day 20:
 - [✔️] Completed an Easy difficulty vulnerable Windows VM [TryHackMe](https://tryhackme.com/r/room/outlookntlmleak)
-- [⭕] Started a Medium difficulty vulnerable Windows VM [TryHackMe](https://tryhackme.com/r/room/vulnnetactive)
+- [✔️] Started a Medium difficulty vulnerable Windows VM [TryHackMe](https://tryhackme.com/r/room/vulnnetactive)
 ### Day 21:
 - [❌] Completed a Medium difficulty vulnerable Windows VM [TryHackMe](https://tryhackme.com/r/room/vulnnetactive)
+- [✔️] Started another Medium difficulty vulnerable Windows VM [TryHackMe](https://tryhackme.com/r/room/stealth)
 
 ## Week 4:
 ### Day 22:
-- [⭕]
+- [❌] Completed the Medium difficulty vulnerable Windows VM [TryHackMe](https://tryhackme.com/r/room/stealth)  
+   ❕ P.S: Used privesc.ps1 script to enumerate for Privelege Escalation.
 ### Day 23:
 - [⭕]
