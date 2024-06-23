@@ -61,7 +61,7 @@ Started: 1st June 2024
 - [✔️] Completed an Easy difficulty vulnerable Windows VM [TryHackMe](https://tryhackme.com/r/room/outlookntlmleak)
 - [⭕] Started a Medium difficulty vulnerable Windows VM [TryHackMe](https://tryhackme.com/r/room/vulnnetactive)
 ### Day 21:
-- [⭕] Completed a Medium difficulty vulnerable Windows VM [TryHackMe](https://tryhackme.com/r/room/vulnnetactive)
+- [❌] Completed a Medium difficulty vulnerable Windows VM [TryHackMe](https://tryhackme.com/r/room/vulnnetactive)
 
 ## Week 4:
 ### Day 22:
