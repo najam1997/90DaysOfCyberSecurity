@@ -69,6 +69,6 @@ Started: 1st June 2024
 ### Day 22:
 - [✔️] Started [Double Pivoting](https://pentest.blog/explore-hidden-networks-with-double-pivoting/).
 ### Day 23:
-- [⭕] Practicing the concepts on an Easy Difficulty [Double Pivoting](VM https://tryhackme.com/r/room/wreath)
+- [⭕] Practicing the concepts on an Easy Difficulty [Double Pivoting VM](https://tryhackme.com/r/room/wreath)
 ### Day 24:
 - [⭕]
