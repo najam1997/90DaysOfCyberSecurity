@@ -62,7 +62,7 @@ Started: 1st June 2024
 - [✔️] Started a Medium difficulty vulnerable Windows VM [TryHackMe](https://tryhackme.com/r/room/vulnnetactive)
 ### Day 21:
 - [❌] Completed a Medium difficulty vulnerable Windows VM [TryHackMe](https://tryhackme.com/r/room/vulnnetactive)
-- [✔️] Did another Medium difficulty vulnerable Windows VM [TryHackMe](https://tryhackme.com/r/room/stealth)  
+- [❌] Did another Medium difficulty vulnerable Windows VM [TryHackMe](https://tryhackme.com/r/room/stealth)  
    ❕ P.S: Used privesc.ps1 script to enumerate for Privelege Escalation.
 
 ## Week 4 (Double Pivoting):
