@@ -67,6 +67,8 @@ Started: 1st June 2024
 
 ## Week 4 (Double Pivoting):
 ### Day 22:
-- [✔️] Started Double Pivoting.
+- [✔️] Started [Double Pivoting](https://pentest.blog/explore-hidden-networks-with-double-pivoting/).
 ### Day 23:
+- [⭕]
+### Day 24:
 - [⭕]
