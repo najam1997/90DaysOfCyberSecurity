@@ -72,3 +72,8 @@ Started: 1st June 2024
 - [⭕] Practicing the concepts on an Easy Difficulty [Double Pivoting VM](https://tryhackme.com/r/room/wreath)
 ### Day 24:
 - [⭕]
+
+Continue: 8th July
+### Day 25:
+- [⭕]
+
