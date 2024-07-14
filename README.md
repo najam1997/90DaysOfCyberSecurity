@@ -77,8 +77,8 @@ Continue: 8th July
 ### Day 25:
 - [✔️] Practicing the concepts on an Easy Difficulty [Double Pivoting VM](https://tryhackme.com/r/room/wreath)
 ### Day 26:
-- [❌] Practicing the concepts on an Easy Difficulty [Double Pivoting VM](https://tryhackme.com/r/room/wreath)
-  ⚠️ Note: Have to practice and revise all the concepts later.
+- [❌] Practicing the concepts on an Easy Difficulty [Double Pivoting VM](https://tryhackme.com/r/room/wreath)   
+   ⚠️ Note: Have to practice and revise all the concepts later.
 ### Day 27:
 - [⭕] 
 ### Day 28:
