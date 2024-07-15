@@ -92,3 +92,5 @@ Continue: 8th July
 - [⭕]
 ### Day 31:
 - [⭕]
+### Day 32:
+- [⭕]
