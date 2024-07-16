@@ -81,7 +81,7 @@ Continue: 8th July
    ⚠️ Note: Have to practice and revise all the concepts later.   
   ❕ P.S: The tools provided here to be used in the exam.   
 ### Day 27:
-- [⭕] Started practicing a Medium difficulty [CTF on THM](https://tryhackme.com/r/room/empline)
+- [⭕] Started practicing concepts on a Medium difficulty [CTF on THM](https://tryhackme.com/r/room/empline)
 ### Day 28:
 - [⭕] Completed the [CTF](https://tryhackme.com/r/room/empline)
 
