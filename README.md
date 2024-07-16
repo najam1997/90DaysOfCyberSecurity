@@ -81,9 +81,9 @@ Continue: 8th July
    ⚠️ Note: Have to practice and revise all the concepts later.   
   ❕ P.S: The tools provided here to be used in the exam.   
 ### Day 27:
-- [⭕] 
+- [⭕] Started practicing a [CTF on THM](https://tryhackme.com/r/room/empline)
 ### Day 28:
-- [⭕] 
+- [⭕] Completed the [CTF](https://tryhackme.com/r/room/empline)
 
 ## Week 5 ():
 ### Day 29:
@@ -93,4 +93,6 @@ Continue: 8th July
 ### Day 31:
 - [⭕]
 ### Day 32:
+- [⭕]
+### Day 33:
 - [⭕]
