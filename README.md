@@ -89,7 +89,7 @@ Continued: 8th July
 ### Day 29:
 - [✔️] Practiced concepts on a Medium difficulty [CTF on THM](https://tryhackme.com/r/room/containme1)
 ### Day 30:
-- [⭕] Completed the [CTF](https://tryhackme.com/r/room/containme1)
+- [✔️] Completed the [CTF](https://tryhackme.com/r/room/containme1)
 ### Day 31:
 - [⭕]
 ### Day 32:
