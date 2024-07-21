@@ -103,7 +103,7 @@ Continued: 8th July
 
 ## Week 6 (OWASP TOP 10):
 ### Day 36:
-- [⭕] 
+- [⭕] Started SQL Injection Labs on [PortSwigger](https://portswigger.net/web-security/sql-injection)
 ### Day 37:
 - [⭕] 
 ### Day 38:
