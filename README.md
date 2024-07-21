@@ -73,7 +73,7 @@ Started: 1st June 2024
 ### Day 24:
 - [✔️] Practicing the concepts on an Easy Difficulty [Double Pivoting VM](https://tryhackme.com/r/room/wreath)
 
-Continue: 8th July
+Continued: 8th July
 ### Day 25:
 - [✔️] Practicing the concepts on an Easy Difficulty [Double Pivoting VM](https://tryhackme.com/r/room/wreath)
 ### Day 26:
@@ -81,13 +81,13 @@ Continue: 8th July
    ⚠️ Note: Have to practice and revise all the concepts later.   
   ❕ P.S: The tools provided here to be used in the exam.   
 ### Day 27:
-- [⭕] Started practicing concepts on a Medium difficulty [CTF on THM](https://tryhackme.com/r/room/empline)
+- [✔️] Started practicing concepts on a Medium difficulty [CTF on THM](https://tryhackme.com/r/room/empline)
 ### Day 28:
-- [⭕] Completed the [CTF](https://tryhackme.com/r/room/empline)
+- [✔️] Completed the [CTF](https://tryhackme.com/r/room/empline)
 
-## Week 5 ():
+## Week 5 (CTF Exercises):
 ### Day 29:
-- [⭕] Practiced concepts on a Medium difficulty [CTF on THM](https://tryhackme.com/r/room/containme1)
+- [✔️] Practiced concepts on a Medium difficulty [CTF on THM](https://tryhackme.com/r/room/containme1)
 ### Day 30:
 - [⭕] Completed the [CTF](https://tryhackme.com/r/room/containme1)
 ### Day 31:
@@ -100,3 +100,11 @@ Continue: 8th July
 - [⭕]
 ### Day 35:
 - [⭕]
+
+## Week 6 (OWASP TOP 10):
+### Day 36:
+- [⭕] 
+### Day 37:
+- [⭕] 
+### Day 38:
+- [⭕] 
