@@ -91,15 +91,15 @@ Continued: 8th July
 ### Day 30:
 - [✔️] Completed the [CTF](https://tryhackme.com/r/room/containme1)
 ### Day 31:
-- [⭕]
+- [❌]
 ### Day 32:
-- [⭕]
+- [❌]
 ### Day 33:
-- [⭕]
+- [❌]
 ### Day 34:
-- [⭕]
+- [❌]
 ### Day 35:
-- [⭕]
+- [❌]
 
 ## Week 6 (OWASP TOP 10):
 ### Day 36:
@@ -107,4 +107,8 @@ Continued: 8th July
 ### Day 37:
 - [⭕] 
 ### Day 38:
+- [⭕] 
+### Day 39:
+- [⭕]
+### Day 40:
 - [⭕] 
