@@ -105,10 +105,13 @@ Continued: 8th July
 ### Day 36:
 - [✔️] Started SQL Injection Labs on [PortSwigger](https://portswigger.net/web-security/sql-injection)
 ### Day 37:
-- [✔️] Completed SQL Injection Labs on [PortSwigger](https://portswigger.net/web-security/sql-injection)
+- [❌] Completed SQL Injection Labs on [PortSwigger](https://portswigger.net/web-security/sql-injection)
 ### Day 38:
-- [✔️] Worked on AWS concepts
+- [✔️] Worked on AWS Concepts
 ### Day 39:
+- [✔️] Completed CSRF Labs on [PortSwigger](https://portswigger.net/web-security/csrf)
 - [⭕]
 ### Day 40:
-- [⭕] 
+- [⭕]
+### Day 41:
+- [⭕]
