@@ -111,6 +111,6 @@ Continued: 8th July
 ### Day 39:
 - [✔️] Completed CSRF Labs on [PortSwigger](https://portswigger.net/web-security/csrf)
 ### Day 40:
-- [⭕] Completed CSRF Labs on [PortSwigger](https://portswigger.net/web-security/file-upload)
+- [⭕] Completed File Upload Labs on [PortSwigger](https://portswigger.net/web-security/file-upload)
 ### Day 41:
 - [⭕]
