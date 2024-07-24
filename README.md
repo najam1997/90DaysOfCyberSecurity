@@ -91,11 +91,11 @@ Continued: 8th July
 ### Day 30:
 - [✔️] Completed the [CTF](https://tryhackme.com/r/room/containme1)
 ### Day 31:
-- [❌]
+- [❌] Started practicing concepts on a Hard difficulty [CTF on THM](https://tryhackme.com/r/room/internal)
 ### Day 32:
-- [❌]
+- [❌] Continued practicing concepts on a Hard difficulty [CTF on THM](https://tryhackme.com/r/room/internal)
 ### Day 33:
-- [❌]
+- [❌] Completed the Hard difficulty [CTF on THM](https://tryhackme.com/r/room/internal)
 ### Day 34:
 - [❌]
 ### Day 35:
