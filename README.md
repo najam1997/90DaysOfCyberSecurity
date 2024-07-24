@@ -110,8 +110,7 @@ Continued: 8th July
 - [✔️] Worked on AWS Concepts
 ### Day 39:
 - [✔️] Completed CSRF Labs on [PortSwigger](https://portswigger.net/web-security/csrf)
-- [⭕] Completed CSRF Labs on [PortSwigger](https://portswigger.net/web-security/file-upload)
 ### Day 40:
-- [⭕]
+- [⭕] Completed CSRF Labs on [PortSwigger](https://portswigger.net/web-security/file-upload)
 ### Day 41:
 - [⭕]
