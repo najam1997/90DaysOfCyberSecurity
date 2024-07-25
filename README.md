@@ -111,6 +111,8 @@ Continued: 8th July
 ### Day 39:
 - [✔️] Completed CSRF Labs on [PortSwigger](https://portswigger.net/web-security/csrf)
 ### Day 40:
-- [⭕] Completed File Upload Labs on [PortSwigger](https://portswigger.net/web-security/file-upload)
+- [✔️] Completed File Upload Labs on [PortSwigger](https://portswigger.net/web-security/file-upload)
 ### Day 41:
-- [⭕] Completed XML External Entity Labs on [PortSwigger](https://portswigger.net/web-security/xxe)
+- [✔️] Completed XML External Entity Labs on [PortSwigger](https://portswigger.net/web-security/xxe)
+### Day 42:
+- [⭕]  
