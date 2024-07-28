@@ -115,4 +115,12 @@ Continued: 8th July
 ### Day 41:
 - [✔️] Completed XML External Entity Labs on [PortSwigger](https://portswigger.net/web-security/xxe)
 ### Day 42:
-- [⭕]  
+- [⭕]
+## Week 7 ():
+### Day 43:
+- [⭕]
+### Day 44:
+- [⭕]
+### Day 45:
+- [⭕]
+  
