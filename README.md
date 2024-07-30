@@ -115,16 +115,18 @@ Continued: 8th July
 ### Day 41:
 - [✔️] Completed XML External Entity Labs on [PortSwigger](https://portswigger.net/web-security/xxe)
 ### Day 42:
-- [⭕] Revised all the concepts and topics learnt this week.
+- [✔️] Revised all the concepts and topics learnt this week.
 
 ## Week 7 ():
 ### Day 43:
-- [⭕]
+- [⭕] Completed Medium Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/blog)
 ### Day 44:
-- [⭕]
+- [⭕] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/blaster)
 ### Day 45:
-- [⭕]
+- [⭕] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/bolt)
+- [⭕] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/chillhack)
 ### Day 46:
-- [⭕]  
+- [⭕] Completed Hard Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/retro)
 ### Day 47:
-- [⭕]
+- [⭕] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/startup)
+- [⭕] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/ignite)
