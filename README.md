@@ -119,7 +119,7 @@ Continued: 8th July
 
 ## Week 7 (Initial Foothold Practice):
 ### Day 43:
-- [⭕] Completed Medium Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/blog)   
+- [✔️] Completed Medium Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/blog)   
   ❕ P.S: Wordpress Scanning guidelines in this VM.
 ### Day 44:
 - [⭕] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/blaster)
