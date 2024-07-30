@@ -117,7 +117,7 @@ Continued: 8th July
 ### Day 42:
 - [✔️] Revised all the concepts and topics learnt this week.
 
-## Week 7 ():
+## Week 7 (Initial Foothold Practice):
 ### Day 43:
 - [⭕] Completed Medium Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/blog)
 ### Day 44:
