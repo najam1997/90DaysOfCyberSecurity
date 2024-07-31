@@ -131,3 +131,5 @@ Continued: 8th July
 ### Day 47:
 - [⭕] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/startup)
 - [⭕] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/ignite)
+### Day 48:
+- [⭕]
