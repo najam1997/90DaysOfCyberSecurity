@@ -123,7 +123,7 @@ Continued: 8th July
   ❕ P.S: Wordpress Scanning guidelines in this VM.
 ### Day 44:
 - [⭕] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/blaster)
-- [⭕] Completed Metasploit Basic Lab on [TryHackMe](https://tryhackme.com/r/room/metasploitintro)
+- [✔️] Completed Metasploit Basic Lab on [TryHackMe](https://tryhackme.com/r/room/metasploitintro)
 ### Day 45:
 
 ### Day 46:
