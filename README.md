@@ -134,3 +134,5 @@ Continued: 8th July
 ### Day 48:
 - [⭕] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/bolt)
 - [⭕] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/chillhack)
+### Day 49:
+- [⭕]
