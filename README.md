@@ -9,6 +9,8 @@ Started: 1st June 2024
    ✔️ : Completed  
    ❌ : Incomplete  
    ⭕ : In progress  
+   🔸 : Linux Notes  
+   🔹 : Windows Notes  
 
 ## Week 1 (Active Directory Exploitation):
 ### Day 1:
@@ -129,8 +131,10 @@ Continued: 8th July
 ### Day 46:
 - [⭕] Completed Hard Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/retro)
 ### Day 47:
-- [⭕] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/startup)
-- [✔️]] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/ignite)
+- [✔️] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/startup)   
+    :small_orange_diamond: Learnt: FTP for initial foothold and cronjobs for privesc.
+- [✔️] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/ignite)   
+    :small_orange_diamond: Learnt: Fuel CMS exploit and php shell upload for privesc.
 ### Day 48:
 - [⭕] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/bolt)
 - [⭕] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/chillhack)
