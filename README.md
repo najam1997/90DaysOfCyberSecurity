@@ -136,3 +136,6 @@ Continued: 8th July
 - [⭕] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/chillhack)
 ### Day 49:
 - [⭕]
+## Week 8 (Revision):
+### Day 50:
+- [⭕] 
