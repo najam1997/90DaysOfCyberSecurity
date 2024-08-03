@@ -138,7 +138,8 @@ Continued: 8th July
 ### Day 48:
 - [⭕] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/bolt)   
     :small_orange_diamond: Learnt: Bolt CMS exploit through msf, no privesc in this.
-- [⭕] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/chillhack)
+- [⭕] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/chillhack)   
+    :small_orange_diamond: Learnt: FTP, Command Injection variations.
 ### Day 49:
 - [⭕]
 ## Week 8 (Revision):
