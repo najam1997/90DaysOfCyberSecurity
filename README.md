@@ -136,12 +136,12 @@ Continued: 8th July
 - [✔️] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/ignite)   
     :small_orange_diamond: Learnt: Fuel CMS exploit and php shell upload for privesc.
 ### Day 48:
-- [⭕] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/bolt)   
+- [✔️] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/bolt)   
     :small_orange_diamond: Learnt: Bolt CMS exploit through msf, no privesc in this.
-- [⭕] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/chillhack)   
+- [✔️] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/chillhack)   
     :small_orange_diamond: Learnt: FTP, Command Injection variations, ssh key and mysql for lateral movement / privesc.
 ### Day 49:
-- [⭕]
+- [⭕] []()
 ## Week 8 (Revision):
 ### Day 50:
 - [⭕] 
