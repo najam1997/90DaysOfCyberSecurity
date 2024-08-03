@@ -143,3 +143,5 @@ Continued: 8th July
 ## Week 8 (Revision):
 ### Day 50:
 - [⭕] 
+### Day 51:
+- [⭕] 
