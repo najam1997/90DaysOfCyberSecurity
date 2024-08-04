@@ -142,7 +142,7 @@ Continued: 8th July
     :small_orange_diamond: Learnt: FTP, Command Injection variations, ssh key, mysql and GTFOBins for lateral movement / privesc.
 ### Day 49:
 - [⭕] []()
-## Week 8 (Revision):
+## Week 8 (Active Directory Revision):
 ### Day 50:
 - [⭕] 
 ### Day 51:
