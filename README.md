@@ -139,7 +139,7 @@ Continued: 8th July
 - [✔️] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/bolt)   
     :small_orange_diamond: Learnt: Bolt CMS exploit through msf, no privesc in this.
 - [✔️] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/chillhack)   
-    :small_orange_diamond: Learnt: FTP, Command Injection variations, ssh key and mysql for lateral movement / privesc.
+    :small_orange_diamond: Learnt: FTP, Command Injection variations, ssh key, mysql and GTFOBins for lateral movement / privesc.
 ### Day 49:
 - [⭕] []()
 ## Week 8 (Revision):
