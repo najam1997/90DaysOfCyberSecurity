@@ -107,7 +107,7 @@ Continued: 8th July
 ### Day 36:
 - [✔️] Started SQL Injection Labs on [PortSwigger](https://portswigger.net/web-security/sql-injection)
 ### Day 37:
-- [❌] Completed SQL Injection Labs on [PortSwigger](https://portswigger.net/web-security/sql-injection)
+- [✔️] Using SQLMap completed SQL Injection Labs on [PortSwigger](https://portswigger.net/web-security/sql-injection)
 ### Day 38:
 - [✔️] Worked on AWS Concepts
 ### Day 39:
@@ -133,17 +133,17 @@ Continued: 8th July
 - [⭕] Completed Hard Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/retro)
 ### Day 47:
 - [✔️] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/startup)   
-    :small_orange_diamond: Learnt: FTP for initial foothold and cronjobs for privesc.
+    :small_orange_diamond:Learnt: FTP for initial foothold and cronjobs for privesc.
 - [✔️] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/ignite)   
-    :small_orange_diamond: Learnt: Fuel CMS exploit and php shell upload for privesc.
+    :small_orange_diamond:Learnt: Fuel CMS exploit and php shell upload for privesc.
 ### Day 48:
 - [✔️] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/bolt)   
-    :small_orange_diamond: Learnt: Bolt CMS exploit through msf, no privesc in this.
+    :small_orange_diamond:Learnt: Bolt CMS exploit through msf, no privesc in this.
 - [✔️] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/chillhack)   
-    :small_orange_diamond: Learnt: FTP and Command Injection variations for initial foothold. SSH key-gen, mysql and GTFOBins for lateral movement / privesc.
+    :small_orange_diamond:Learnt: FTP and Command Injection variations for initial foothold. SSH key-gen, mysql and GTFOBins for lateral movement / privesc.
 ### Day 49:
 - [✔️] Completed Metasploit Meterpreter Lab on [TryHackMe](https://tryhackme.com/module/metasploit)   
-    🔹Learnt: Lateral movement and privesc using meterpreter, exploiting smbshares and NTLM Hash etc.
+    🔹Learnt: Lateral movement and privesc using meterpreter through exploiting smbshares and NTLM Hash etc.
 
 ## Week 8 (Active Directory Revision):
 ### Day 50:
