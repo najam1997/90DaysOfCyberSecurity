@@ -124,10 +124,10 @@ Continued: 8th July
 - [✔️] Completed Medium Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/blog)   
   ❕ P.S: Wordpress Scanning guidelines in this VM.
 ### Day 44:
-- [⭕] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/blaster)
+- [✔️] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/blaster)
 - [✔️] Completed Metasploit Basic Lab on [TryHackMe](https://tryhackme.com/module/metasploit)
 ### Day 45:
-- [⭕] Completed Metasploit Exploitation Lab on [TryHackMe](https://tryhackme.com/module/metasploit)   
+- [✔️] Completed Metasploit Exploitation Lab on [TryHackMe](https://tryhackme.com/module/metasploit)   
     🔹Learnt: SMB and SMTP enumeration as well as dumping hash through metasploit.
 ### Day 46:
 - [⭕] Completed Hard Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/retro)
