@@ -125,9 +125,10 @@ Continued: 8th July
   ❕ P.S: Wordpress Scanning guidelines in this VM.
 ### Day 44:
 - [⭕] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/blaster)
-- [✔️] Completed Metasploit Basic Lab on [TryHackMe](https://tryhackme.com/r/room/metasploitintro)
+- [✔️] Completed Metasploit Basic Lab on [TryHackMe](https://tryhackme.com/module/metasploit)
 ### Day 45:
-- [⭕] []()
+- [⭕] Completed Metasploit Exploitation Lab on [TryHackMe](https://tryhackme.com/module/metasploit)   
+    🔹Learnt:
 ### Day 46:
 - [⭕] Completed Hard Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/retro)
 ### Day 47:
@@ -141,7 +142,9 @@ Continued: 8th July
 - [✔️] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/chillhack)   
     :small_orange_diamond: Learnt: FTP and Command Injection variations for initial foothold. SSH key-gen, mysql and GTFOBins for lateral movement / privesc.
 ### Day 49:
-- [⭕] []()
+- [✔️] Completed Metasploit Meterpreter Lab on [TryHackMe](https://tryhackme.com/module/metasploit)   
+    🔹Learnt: Lateral movement and privesc using meterpreter, exploiting smbshares and NTLM Hash etc.
+
 ## Week 8 (Active Directory Revision):
 ### Day 50:
 - [⭕] 
