@@ -128,7 +128,7 @@ Continued: 8th July
 - [✔️] Completed Metasploit Basic Lab on [TryHackMe](https://tryhackme.com/module/metasploit)
 ### Day 45:
 - [⭕] Completed Metasploit Exploitation Lab on [TryHackMe](https://tryhackme.com/module/metasploit)   
-    🔹Learnt:
+    🔹Learnt: SMB and SMTP enumeration as well as dumping hash through metasploit.
 ### Day 46:
 - [⭕] Completed Hard Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/retro)
 ### Day 47:
