@@ -127,7 +127,7 @@ Continued: 8th July
 - [⭕] Completed Easy Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/blaster)
 - [✔️] Completed Metasploit Basic Lab on [TryHackMe](https://tryhackme.com/r/room/metasploitintro)
 ### Day 45:
-
+- [⭕] []()
 ### Day 46:
 - [⭕] Completed Hard Difficulty Lab on [TryHackMe](https://tryhackme.com/r/room/retro)
 ### Day 47:
@@ -149,3 +149,5 @@ Continued: 8th July
 - [⭕] 
 ### Day 52:
 - [⭕] 
+### Day 53:
+- [⭕]
