@@ -145,9 +145,9 @@ Continued: 8th July
 - [✔️] Completed Metasploit Meterpreter Lab on [TryHackMe](https://tryhackme.com/module/metasploit)   
     🔹Learnt: Lateral movement and privesc using meterpreter through exploiting smbshares and NTLM Hash etc.
 
-## Week 8 (Active Directory Revision):
+## Week 8 (Revision):
 ### Day 50:
-- [⭕] 
+- [✔️] Started Revising [Double Pivoting](https://tryhackme.com/r/room/wreath)
 ### Day 51:
 - [⭕] 
 ### Day 52:
@@ -155,4 +155,6 @@ Continued: 8th July
 ### Day 53:
 - [⭕]
 ### Day 54:
+- [⭕] []()
+### Day 55:
 - [⭕] []()
