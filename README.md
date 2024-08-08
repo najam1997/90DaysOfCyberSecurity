@@ -149,7 +149,7 @@ Continued: 8th July
 ### Day 50:
 - [✔️] Started Revising [Double Pivoting](https://tryhackme.com/r/room/wreath)
 ### Day 51:
-- [⭕] 
+- [⭕] Continued [Double Pivoting](https://tryhackme.com/r/room/wreath)
 ### Day 52:
 - [⭕] 
 ### Day 53:
@@ -157,4 +157,6 @@ Continued: 8th July
 ### Day 54:
 - [⭕] []()
 ### Day 55:
+- [⭕] []()
+### Day 56:
 - [⭕] []()
