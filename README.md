@@ -149,7 +149,13 @@ Continued: 8th July
 ### Day 50:
 - [✔️] Started Revising [Double Pivoting](https://tryhackme.com/r/room/wreath)
 ### Day 51:
-- [⭕] Continued [Double Pivoting](https://tryhackme.com/r/room/wreath)
+- [✔️] Completed [Double Pivoting](https://tryhackme.com/r/room/wreath)   
+    🔹Learnt:    
+    1. Miniserv exploitation and sshuttle to the second machine for pivoting.    
+    2. Gitstack exploitation through powershell exploit redirected to our own machine using socat.
+    3. Used PS for persistent access and mimikatz for priv esc.
+    4. Used Evil-Winrm to connect to the admin on second machine then setup chisel for portforwarding.
+    5. Finally, exploit the php upload vulnerability through obfuscated code.
 ### Day 52:
 - [⭕] 
 ### Day 53:
