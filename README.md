@@ -157,11 +157,11 @@ Continued: 8th July
     4. Used Evil-Winrm to connect to the admin on second machine then setup chisel for portforwarding.
     5. Finally, exploit the php upload vulnerability through obfuscated code.
 ### Day 52:
-- [⭕] 
+- [✔️] 🔸🔹 Revision: Metasploit Modules.
 ### Day 53:
-- [⭕]
+- [✔️] 🔸🔹 Revision: SMB Enumeration through **enum4linux -a** and bruteforce through **crackmapexec**.
 ### Day 54:
-- [⭕] []()
+- [✔️] 🔹 Revision: Windows VM remote through **xfreerdp** and users / groups enumeration through **PS**.
 ### Day 55:
 - [⭕] []()
 ### Day 56:
