@@ -169,3 +169,7 @@ Continued: 8th July
 ## Week 9 (Revision):
 ### Day 57:
 - [⭕] []()
+### Day 58:
+- [⭕] []()
+### Day 59:
+- [⭕] []()
