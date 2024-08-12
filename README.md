@@ -167,8 +167,8 @@ Continued: 8th July
 🔹 Revision:
 - [✔️] [Active Directory Basics](https://tryhackme.com/module/hacking-active-directory)
 - [✔️] [Breaching Active Directory](https://tryhackme.com/module/hacking-active-directory)   
-  📝: MSF and CME for username enumeration through passwords. Change password on first login in AD through impacket.
-  📝: Hashdump using PSExec from MSF, evil-winrm for remote connection.
+  📝: MSF and CME for username enumeration through passwords. Change password on first login in AD through impacket.    
+  📝: Hashdump using PSExec from MSF, evil-winrm for remote connection.    
 - [✔️] [Enumerating Active Directory](https://tryhackme.com/module/hacking-active-directory)
 ### Week 9 (Revision):
 ### Day 57:
