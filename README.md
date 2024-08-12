@@ -162,11 +162,12 @@ Continued: 8th July
 - [✔️] 🔸🔹 Revision: SMB Enumeration through **enum4linux -a** and bruteforce through **crackmapexec**.
 ### Day 54:
 - [✔️] 🔹 Revision: Windows VM remote through **xfreerdp** and users / groups enumeration through **PS**.
-### Day 55:
-- [⭕] []()
-### Day 56:
-- [⭕] []()
-## Week 9 (Revision):
+### Day 55 and 56:
+🔹 Revision:
+- [✔️] [Active Directory Basics](https://tryhackme.com/module/hacking-active-directory)
+- [✔️] [Breaching Active Directory](https://tryhackme.com/module/hacking-active-directory)
+- [✔️] [Enumerating Active Directory](https://tryhackme.com/module/hacking-active-directory)
+### Week 9 (Revision):
 ### Day 57:
 - [⭕] []()
 ### Day 58:
