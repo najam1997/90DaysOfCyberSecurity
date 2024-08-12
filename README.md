@@ -11,6 +11,7 @@ Started: 1st June 2024
    ⭕ : In progress  
    🔸 : Linux Notes  
    🔹 : Windows Notes  
+   📝: Important notes for Exam
 
 ## Week 1 (Active Directory Exploitation):
 ### Day 1:
@@ -165,7 +166,9 @@ Continued: 8th July
 ### Day 55 and 56:
 🔹 Revision:
 - [✔️] [Active Directory Basics](https://tryhackme.com/module/hacking-active-directory)
-- [✔️] [Breaching Active Directory](https://tryhackme.com/module/hacking-active-directory)
+- [✔️] [Breaching Active Directory](https://tryhackme.com/module/hacking-active-directory)   
+  📝: MSF and CME for username enumeration through passwords. Change password on first login in AD through impacket.
+  📝: Hashdump using PSExec from MSF, evil-winrm for remote connection.
 - [✔️] [Enumerating Active Directory](https://tryhackme.com/module/hacking-active-directory)
 ### Week 9 (Revision):
 ### Day 57:
