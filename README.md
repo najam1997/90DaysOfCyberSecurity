@@ -169,10 +169,12 @@ Continued: 8th July
 - [✔️] [Breaching Active Directory](https://tryhackme.com/module/hacking-active-directory)   
   📝: MSF and CME for username enumeration through passwords. Change password on first login in AD through impacket.    
   📝: Hashdump using PSExec from MSF, evil-winrm for remote connection.    
-- [✔️] [Enumerating Active Directory](https://tryhackme.com/module/hacking-active-directory)
+- [✔️] [Enumerating Active Directory](https://tryhackme.com/module/hacking-active-directory)   
+  📝: Sharhound and Bloodhound for Enumeration and impacket for dumping NTLM Hashes.
 ### Week 9 (Revision):
 ### Day 57:
-- [⭕] []()
+- [✔️] [Lateral Movement and Pivoting](https://tryhackme.com/module/hacking-active-directory)   
+  📝:
 ### Day 58:
 - [⭕] []()
 ### Day 59:
