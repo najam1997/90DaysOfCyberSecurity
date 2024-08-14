@@ -177,7 +177,7 @@ Continued: 8th July
   📝: 
 ### Day 58:
 - [⭕] [Exploiting Active Directory](https://tryhackme.com/module/hacking-active-directory)   
-  📝: Mimikatz, Kekeo, (some other tools)[https://happycamper84.medium.com/exploiting-active-directory-tryhackme-walkthrough-aff708643d3a] etc. Print Spooler service exploitation through impacket-ntlmrelayx 
+  📝: Mimikatz, Kekeo, (some other tools)[https://happycamper84.medium.com/exploiting-active-directory-tryhackme-walkthrough-aff708643d3a] etc. Print Spooler service exploitation through impacket-ntlmrelayx, importance of **kdbx** file, runas for running cmd as another user
 ### Day 59:
 - [⭕] [Persisting Active Directory](https://tryhackme.com/module/hacking-active-directory)
 ### Day 60:
