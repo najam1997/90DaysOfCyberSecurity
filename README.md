@@ -179,9 +179,9 @@ Continued: 8th July
 - [⭕] [Exploiting Active Directory](https://tryhackme.com/module/hacking-active-directory)   
   📝: 
 ### Day 59:
-- [⭕] []()
+- [⭕] [Persisting Active Directory](https://tryhackme.com/module/hacking-active-directory)
 ### Day 60:
-- [⭕] []()
+- [⭕] [Credentials Harvesting](https://tryhackme.com/module/hacking-active-directory)
 ### Day 61:
 - [⭕] []()
 ### Day 62:
