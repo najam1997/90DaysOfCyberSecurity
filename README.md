@@ -174,9 +174,10 @@ Continued: 8th July
 ### Week 9 (Revision):
 ### Day 57:
 - [✔️] [Lateral Movement and Pivoting](https://tryhackme.com/module/hacking-active-directory)   
-  📝:
+  📝: 
 ### Day 58:
-- [⭕] []()
+- [⭕] [Exploiting Active Directory](https://tryhackme.com/module/hacking-active-directory)   
+  📝: 
 ### Day 59:
 - [⭕] []()
 ### Day 60:
