@@ -180,7 +180,7 @@ Continued: 8th July
   📝: Mimikatz, Kekeo, (some other tools)[https://happycamper84.medium.com/exploiting-active-directory-tryhackme-walkthrough-aff708643d3a] etc. Print Spooler service exploitation through impacket-ntlmrelayx, importance of **kdbx** file, runas for running cmd as another user.
 ### Day 59:
 - [✔️] [Vulnerable VM on HTB]()   
-    🔹: **Kerbrute** for username enumeration, **Hex** decoding, **sqsh** for connection to MSSQL database, **responder** for capturing traffic, **CME** for enumerating SMB and MSSQL, executing **bloodhound** through terminal, SID extraction with **lookupsid**, **python ms14-068** exploit, 
+    🔹: **Kerbrute** for username enumeration, **Hex** decoding, **sqsh** for connection to MSSQL database, **responder** for capturing traffic, **CME** for enumerating SMB and MSSQL, executing **bloodhound** through terminal, SID extraction with **lookupsid**, **python ms14-068** exploit, **psexec** to take the shell.
 ### Day 60:
 - [⭕] [Credentials Harvesting](https://tryhackme.com/module/hacking-active-directory)
 ### Day 61:
