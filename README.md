@@ -182,7 +182,7 @@ Continued: 8th July
 - [✔️] [Vulnerable VM on HTB]()   
     🔹: **Kerbrute** for username enumeration, **Hex** decoding, **sqsh** for connection to MSSQL database, **responder** for capturing traffic, **CME** for enumerating SMB and MSSQL, executing **bloodhound** through terminal, SID extraction with **lookupsid**, **python ms14-068** exploit, **psexec** to take the shell.
 ### Day 60:
-- [⭕] [Credentials Harvesting](https://tryhackme.com/module/hacking-active-directory)
+- [⭕] []()
 ### Day 61:
 - [⭕] []()
 ### Day 62:
