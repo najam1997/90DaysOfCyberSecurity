@@ -179,10 +179,11 @@ Continued: 8th July
 - [✔️] [Exploiting Active Directory](https://tryhackme.com/module/hacking-active-directory)   
   📝: Mimikatz, Kekeo, (some other tools)[https://happycamper84.medium.com/exploiting-active-directory-tryhackme-walkthrough-aff708643d3a] etc. Print Spooler service exploitation through impacket-ntlmrelayx, importance of **kdbx** file, runas for running cmd as another user.
 ### Day 59:
-- [✔️] [Vulnerable VM on HTB]()   
+- [✔️] Practiced on [HTB](https://www.hackthebox.com/machines/mantis)   
     🔹: **Kerbrute** for username enumeration, **Hex** decoding, **sqsh** for connection to MSSQL database, **responder** for capturing traffic, **CME** for enumerating SMB and MSSQL, executing **bloodhound** through terminal, SID extraction with **lookupsid**, **python ms14-068** exploit, **psexec** to take the shell.
 ### Day 60:
-- [⭕] []()
+- [✔️] Practiced on [HTB](https://www.hackthebox.com/machines/sauna)   
+    🔹: **Dig** for zone transfer of DNS, **Get-NPUsers** for No-PreAuth and post username enumeration check, **Ldapsearch** for dumping any LDAP information, **rpcclient** and **smbclient** for their respective services, **CME** to bruteforce winrm and smb, **rubeus** for performing kerberoasting, **manual PS** commands for local password hunting, **Mimikatz** for performing DC-Sync attack.
 ### Day 61:
 - [⭕] []()
 ### Day 62:
