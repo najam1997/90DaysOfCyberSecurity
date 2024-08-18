@@ -191,7 +191,7 @@ Continued: 8th July
 - [✔️] Researched **john** and **hashcat** for making (zip2john, keepass2john etc.) and bruteforcing hashes.
 - [✔️] Learnt **keepass** exploitation. 
 ### Week 10 ():
-### Day 64:
-- [⭕] []()
-### Day 65:
-- [⭕] []()
+### Days 64 and 65:
+- [✔️] Enumerating kerberos through **kerbrute**, ASREP Roasting through **GET-NPUsers**.
+- [✔️] Researched techniques for enumeration through **Powershell**. 
+
