@@ -184,7 +184,7 @@ Continued: 8th July
 ### Day 60:
 - [✔️] Practiced on [HTB](https://www.hackthebox.com/machines/sauna)   
     🔹: **Dig** for zone transfer of DNS, **Get-NPUsers** for No-PreAuth and post username enumeration check, **Ldapsearch** for dumping any LDAP information, **rpcclient** and **smbclient** for their respective services, **CME** to bruteforce winrm and smb, **rubeus** for performing kerberoasting, **manual PS** commands for local password hunting, **Mimikatz** for performing DC-Sync attack.
-### Days 61, 62, and 63:
+### Days 61 to 63:
 - [✔️] Researched Metasploit for privilege escalation. Used the **always elevated** module.
 - [✔️] Researched **CME** for bruteforcing winrm, ldap, and smb.
 - [✔️] Researched **hydra** for bruteforcing rdp and ssh on different ports.
@@ -194,5 +194,5 @@ Continued: 8th July
 ### Days 64 and 65:
 - [✔️] Enumerating kerberos through **kerbrute**, ASREP Roasting through **GET-NPUsers**.
 - [✔️] Researched techniques for enumeration through **Powershell**. 
-### Days 66, 67, 68 and 69:
+### Days 66 to 69:
 - [✔️] Learnt various buffer overflow techniques through solving machines on TryHackMe and Vulnhub.
