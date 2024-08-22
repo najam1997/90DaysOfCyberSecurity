@@ -196,3 +196,5 @@ Continued: 8th July
 - [✔️] Researched techniques for enumeration through **Powershell**. 
 ### Days 66 to 69:
 - [✔️] Learnt various buffer overflow techniques through solving machines on TryHackMe namely [buffer overflow, bufferoverflow prep, and brainpan 1](https://tryhackme.com/r/hacktivities/search?page=1&kind=all&searchText=buffer).
+### Day 70:
+- [⭕] 
