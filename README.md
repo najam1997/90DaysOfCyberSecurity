@@ -199,5 +199,5 @@ Continued: 8th July
 ### Day 70:
 - [✔️] Learnt the process of making a professional report.
 ### Week 11 ():
-### Days 71 and 72:
+### Days 71 to 74:
 - [⭕] Enumerating
