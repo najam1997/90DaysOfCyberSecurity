@@ -198,6 +198,6 @@ Continued: 8th July
 - [✔️] Learnt various buffer overflow techniques through solving machines on TryHackMe namely [buffer overflow, bufferoverflow prep, and brainpan 1](https://tryhackme.com/r/hacktivities/search?page=1&kind=all&searchText=buffer).
 ### Day 70:
 - [✔️] Learnt the process of making a professional report.
-### Week 11 ():
-### Days 71 to 74:
+### Week 11 (eCCPT):
+### Days 71 to 75:
 - [⭕] Enumerating
