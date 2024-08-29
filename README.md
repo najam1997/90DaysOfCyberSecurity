@@ -199,5 +199,5 @@ Continued: 8th July
 ### Day 70:
 - [✔️] Learnt the process of making a professional report.
 ### Week 11 (eCCPT):
-### Days 71 to 75:
+### Days 71 to 77:
 - [⭕] Enumerating
