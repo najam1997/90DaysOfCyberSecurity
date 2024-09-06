@@ -202,3 +202,5 @@ Continued: 8th July
 ### Week 11 ():
 ### Day 71:
 - [⭕] 
+### Day 72:
+- [⭕] 
