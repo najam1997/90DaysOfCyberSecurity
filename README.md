@@ -208,3 +208,5 @@ Continued: 8th July
 - [⭕]
 ### Day 74:
 - [⭕]
+### Day 75:
+- [⭕]
