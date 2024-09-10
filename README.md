@@ -201,7 +201,7 @@ Continued: 8th July
 ## eCPPT Exam Break
 ### Week 11 ():
 ### Day 71:
-- [⭕] 
+- [✔️] Started to find helpful material for CPENT.
 ### Day 72:
 - [⭕] 
 ### Day 73:
