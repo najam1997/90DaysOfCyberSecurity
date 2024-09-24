@@ -203,7 +203,7 @@ Continued: 8th July
 ### Day 71:
 - [✔️] Started to find helpful material for CPENT.
 ### Day 72:
-- [⭕] 
+- [⭕] Started Practice Range for CPENT.
 ### Day 73:
 - [⭕]
 ### Day 74:
