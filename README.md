@@ -199,13 +199,12 @@ Continued: 8th July
 ### Day 70:
 - [✔️] Learnt the process of making a professional report.
 ## eCPPT Exam Break
-### Week 11 ():
+### Week 11 (CPENT Practice Range):
 ### Day 71:
 - [✔️] Started to find helpful material for CPENT.
-### Day 72:
-- [⭕] Started Practice Range for CPENT.
-### Day 73:
-- [⭕]
+### Days 72 and 73:
+- [✔️] Started Practice Range for CPENT.
+- [⭕] Continued Active Directory Range.
 ### Day 74:
 - [⭕]
 ### Day 75:
