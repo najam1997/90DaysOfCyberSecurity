@@ -202,11 +202,10 @@ Continued: 8th July
 ### Week 11 (CPENT Practice Range):
 ### Day 71:
 - [✔️] Started to find helpful material for CPENT.
-### Days 72 and 73:
+### Days 72 to 74:
 - [✔️] Started Practice Range for CPENT.
-- [⭕] Continued Active Directory Range.
-### Day 74:
-- [⭕]
+- [✔️] Continued Active Directory Range.
+- [⭕] Nearly done with AD Range.
 ### Day 75:
 - [⭕]
 ### Day 76:
