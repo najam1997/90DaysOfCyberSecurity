@@ -207,7 +207,7 @@ Continued: 8th July
 - [✔️] Continued Active Directory Range.
 - [✔️] CPENT Notes (FQDN)
 ### Day 75:
-- [⭕]
+- [✔️] Studied CPENT Notes Further
 ### Day 76:
 - [⭕]
 ### Day 77:
