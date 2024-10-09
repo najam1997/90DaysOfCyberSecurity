@@ -212,3 +212,10 @@ Continued: 8th July
 - [⭕]
 ### Day 77:
 - [⭕]
+### Week 12 (CPENT Practice Range):
+### Day 78:
+- [⭕]
+### Day 79:
+- [⭕]
+### Day 80:
+- [⭕]
