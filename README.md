@@ -205,7 +205,7 @@ Continued: 8th July
 ### Days 72 to 74:
 - [✔️] Started Practice Range for CPENT.
 - [✔️] Continued Active Directory Range.
-- [⭕] Nearly done with AD Range.
+- [✔️] CPENT Notes (FQDN)
 ### Day 75:
 - [⭕]
 ### Day 76:
@@ -218,4 +218,10 @@ Continued: 8th July
 ### Day 79:
 - [⭕]
 ### Day 80:
+- [⭕]
+### Day 81:
+- [⭕]
+### Day 82:
+- [⭕]
+### Day 83:
 - [⭕]
