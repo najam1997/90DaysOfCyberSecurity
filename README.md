@@ -209,7 +209,7 @@ Continued: 8th July
 ### Day 75:
 - [✔️] Studied CPENT Notes Further
 ### Day 76:
-- [⭕]
+- [✔️] SMB Exploitation and Privelege Escalation (CPENT Notes).
 ### Day 77:
 - [⭕]
 ### Week 12 (CPENT Practice Range):
