@@ -216,5 +216,5 @@ Continued: 8th July
 ### Days 78 to 84:
 - [⭕]
 ### Week 13 (CPENT Practice Range):
-### Day 85:
+### Days 85 and 86:
 - [⭕]
