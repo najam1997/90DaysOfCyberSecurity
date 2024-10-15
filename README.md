@@ -1,5 +1,5 @@
 # Conquering Offensive Security in 90 days
-Making this repository for preparation of **eCPPT, CPENT, and OSCP**. Will proceed to other things in this domain later on.  
+Making this repository for preparation of **eCPPT and CPENT**. Will proceed to other things in this domain later on.  
    
    **Inspired by:** 90daysofdevops by michaelcade
 
@@ -211,10 +211,10 @@ Continued: 8th July
 ### Day 76:
 - [✔️] SMB Exploitation and Privelege Escalation (CPENT Notes).
 ### Day 77:
-- [⭕]
+- [✔️] Binary Analysis (CPENT Notes).
 ### Week 12 (CPENT Practice Range):
 ### Days 78 to 84:
 - [⭕]
 ### Week 13 (CPENT Practice Range):
-### Days 85 and 86:
+### Days 85 and 87:
 - [⭕]
