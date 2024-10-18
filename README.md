@@ -214,7 +214,8 @@ Continued: 8th July
 - [✔️] Binary Analysis (CPENT Notes).
 ### Week 12 (CPENT Practice Range):
 ### Days 78 to 84:
-- [⭕]
+- [✔️] Further Binary Analysis (CPENT Notes).
+- [✔️] Reviewed bruteforce concepts (SSH, WINRM, SMB, and RDP etc)
 ### Week 13 (CPENT Practice Range):
 ### Days 85 and 89:
 - [⭕]
